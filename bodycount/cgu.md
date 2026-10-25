@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Conditions Générales d'Utilisation"
+lang: fr
 ---
 
 # Conditions Générales d'Utilisation — Bodycount

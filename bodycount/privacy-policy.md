@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Privacy Policy"
+lang: en
 ---
 
 # Privacy Policy — Bodycount

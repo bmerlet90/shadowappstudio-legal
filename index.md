@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Legal
+title: Documents juridiques / Legal documents
+lang: fr
 ---
 
-# Documents juridiques / Legal documents
+Les documents juridiques de chaque application sont accessibles depuis l'application concernée.
 
-- [Bodycount](bodycount/)
+*Each application's legal documents are available from within that application.*

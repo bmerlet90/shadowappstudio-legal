@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Politique de confidentialité"
+lang: fr
 ---
 
 # Politique de confidentialité — Bodycount

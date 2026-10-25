@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bodycount — Legal
+lang: fr
 ---
 
 # Bodycount

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Conditions Générales de Vente"
+lang: fr
 ---
 
 # Conditions Générales de Vente — Bodycount Premium
